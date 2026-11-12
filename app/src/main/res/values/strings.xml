@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kości</string>
+    <string name="tytul">Gra w kości. Autor 00000000000</string>
+    <string name="rzuc_koscmi">RZUĆ KOŚĆMI</string>
+    <string name="resetuj_wynik">RESETUJ WYNIK</string>
+    <string name="kostka">Kostka</string>
+    <string name="wynik_losowania_poczatek">Wynik tego losowania:</string>
+    <string name="wynik_gry_poczatek">Wynik gry:</string>
+    <string name="wynik_losowania">Wynik tego losowania: %1$d</string>
+    <string name="wynik_gry">Wynik gry: %1$d</string>
+</resources>
